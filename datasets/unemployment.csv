@@ -1,4 +1,4 @@
-"State","Date","election_year","Unemployment_rate","unemployement_1year_change","unemployement_4year_change","uneployement_4_year_average","unemployement_1_year_average"
+"state","Date","election_year","Unemployment_rate","unemployement_1year_change","unemployement_4year_change","uneployement_4_year_average","unemployement_1_year_average"
 "Alabama",1980-09-01,"1980",9.4,2,2.2,7.25777777777778,8.29166666666667
 "Alabama",1984-09-01,"1984",10.9,-2.4,1.3,12.5644444444444,11.8416666666667
 "Alabama",1988-09-01,"1988",7.3,-0.5,-3,8.73111111111111,7.35
